@@ -1,0 +1,19 @@
+{
+  "name": "com.peperoncinovrc.dancemotionsetter",
+  "displayName": "DanceMotionSetter",
+  "version": "1.1.0",
+  "description": "Describe this Package",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.6.1"
+  },
+  "author": {
+    "name": "PeperoncinoVRC",
+    "email": "peperoncino.vrc@gmail.com",
+    "url": "https://x.com/PeperoncinoMVRC"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "M:\\Unity\\vpm-repos\\Packages\\com.peperoncinovrc.dancemotionsetter",
+  "unity": "2019.4"
+}
